@@ -2,8 +2,8 @@ function GetName(Name, LastName) {
   document.write(Name + ' ' +LastName);
 }
 
-function addNumber(number1, number2) {
-  return number1+number2;
+function deductNumber(number1, number2) {
+  return number1-number2;
 }
 
 // var i = 1;
